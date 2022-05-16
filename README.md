@@ -1,1 +1,5 @@
-List of all my fansubbing scripts for all the animes, I have worked on.
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"HELLO":
+}
